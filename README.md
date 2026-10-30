@@ -1,16 +1,29 @@
-# React + Vite
+CampusVerse – AI-Powered Smart Digital Campus 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CampusVerse is a smart digital campus platform designed to make campus exploration easier through modern web technologies.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Interactive campus map using Leaflet.
+- AI Assistant interface for campus-related queries.
+- 3D campus exploration interface.
+- Modern and user-friendly dashboard.
 
-## React Compiler
+Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript
+- HTML
+- CSS
+- Leaflet
+- Vite
 
-## Expanding the ESLint configuration
+Project Goal
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+To explore how technology can improve campus navigation and create a smarter digital campus experience.
+
+Developer
+
+Adarsh J Prathap
+
+Computer Science Engineering Student
